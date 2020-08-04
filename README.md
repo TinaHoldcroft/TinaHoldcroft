@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on my Semester Project
+- 🔭 I’m currently working on a [higher professional degree in Front-end Development](https://www.noroff.no/en/studies/vocational-school/front-end-development)
 - 🌱 I’m currently learning: SAP Webi, DOM manipulation, HTML5 Canvas, Ajax, Node.js, BEM, Stylus, Less, SASS, Bootstrap
 
 <!--
