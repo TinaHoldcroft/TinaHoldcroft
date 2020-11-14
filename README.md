@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on a [Higher Professional Degree in Front-end Development](https://www.noroff.no/en/studies/vocational-school/front-end-development)
-- 🌱 I’m currently learning: JQuery, Vue.js, React.js, Angualar.js, Grunt, Gulp
+- 🌱 I’m currently learning: JQuery, Vue.js, React.js, Angular.js, Grunt, Gulp
 
 <!--
 **TinaHoldcroft/TinaHoldcroft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
