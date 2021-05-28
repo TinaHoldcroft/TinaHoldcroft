@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning: CMS integration, UU-design, React.js
+- 🌱 I’m currently learning: Java
 
 <!--
 **TinaHoldcroft/TinaHoldcroft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
